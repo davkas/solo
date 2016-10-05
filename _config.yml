@@ -7,7 +7,7 @@ title: Davkas
 subtitle: 世界上只对一部分人温柔，剩下的看心情
 description: 世界上只对一部分人温柔，剩下的看心情
 author: davkas
-language:
+language: zh-CN
 timezone:
 
 # URL
@@ -40,8 +40,9 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace:
+mathjax: true
 
 # Category & Tag
 default_category: uncategorized
@@ -63,7 +64,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: maupassant
+theme: maupassantk
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
