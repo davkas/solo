@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title:Davkas
-subtitle:only part,not all
-description:only part not all
-author:davkas
-language:zh
-timezone:local
+title: Davkas
+subtitle: only part,not all
+description: only part not all
+author: davkas
+language:
+timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url:http://davkas.cn
+url: http://davkas.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
