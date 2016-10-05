@@ -17,8 +17,6 @@ categories: Hadoop
 | slave2 | 192.168.1.3| datanode|
 | slave3 | 192.168.1.4| datanode |
 
-<!-- more -->
-
 ## 基础软件安装
 ### JDK安装
 

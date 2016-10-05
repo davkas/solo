@@ -20,7 +20,6 @@ Netty中核心的概念有：
 - ChannelEvent
 - ChannelSink
 
-<!-- more -->
 
 ## Netty实现过程
 

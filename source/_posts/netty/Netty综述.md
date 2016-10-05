@@ -28,7 +28,6 @@ categories: hadoop
 - Universal Communication API
 - Zero-Copy-Capable Rich Byte Buffer
 
-<!--more-->
 
 #### 2. Netty服务器端流程
 ------

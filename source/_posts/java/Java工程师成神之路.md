@@ -22,8 +22,6 @@ toc: true
 
 #### 1.1.2. 了解JVM各种参数及调优
 
-<!-- more -->
-
 #### 1.1.3. 学习使用Java工具
 
 jps, jstack, jmap, jconsole, jinfo, jhat, javap, …  

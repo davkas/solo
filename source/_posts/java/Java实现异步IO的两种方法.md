@@ -15,8 +15,6 @@ categories: Java
 
 	一般情况下，使用回调实现异步消息的注册，通过异步调用来实现消息的通知，回调是异步调用的基础。
 
-<!--more-->
-
 #### 2、实现方法
 ##### 回调（CallBack）
 经典的使用回调的方式（if you call me ,i will call you）： 
